@@ -4,6 +4,6 @@ segunda linha de código
 
 terceira linha de código
 
-Quarta linha após criação de repositório remoto 
+Quarta linha após criação de repositório remoto
 
-sexta linha
+Quinta linha
